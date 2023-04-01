@@ -2,7 +2,7 @@
 #define DECK_H
 
 
-typedef enum kind_elements
+typedef enum kind_e;
 {
 	SPADE = 0,
 	HEART,
